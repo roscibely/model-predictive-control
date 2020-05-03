@@ -4,3 +4,5 @@ Model Predictive Control (MPC)
 DMC.m : Technique dynamic matrix control based in the Wang's book
 
 GPC.m : Generalized predictive control based in the Camacho's book
+
+GPC-RST.m: Polynomial RST control structure for GPC design based in the Camacho's book
