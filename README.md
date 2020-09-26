@@ -8,3 +8,5 @@ GPC.m : Generalized predictive control based in the Camacho's book
 GPC-RST.m: Polynomial RST control structure for GPC design based in the Camacho's book
 
 GPC-FUZZY.m: Generalized Predictive Controller with fuzzy logic applied to boost converter 
+
+Offline_MPC_based_LMIs.m based in  Robust constrained model predictive control using linear matrix inequalities Kothare et al. (1996).
