@@ -85,7 +85,7 @@ for k=1:length(x1set)
     hold on, plot(xx(k,:),yy(k,:),'k'), hold on,
     xlabel('x_1'), ylabel('x_2'), title('Elipsoides de Estabilidade');
 end
-%% Condições iniciais
+%% Initial conditions
 N=5;
 x = [0.1; 2]; u = 0;
 alpha=linspace(1,5,tsim);
