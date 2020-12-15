@@ -10,3 +10,5 @@ GPC-RST.m: Polynomial RST control structure for GPC design based in the [Camacho
 GPC-FUZZY.m: Generalized Predictive Controller with fuzzy logic applied to boost converter 
 
 Offline_MPC_based_LMIs.m and wan2002.m based in  [Robust constrained model predictive control using linear matrix inequalities Kothare and Wan. (2002)](https://www.sciencedirect.com/science/article/abs/pii/0005109896000635)
+
+[Dynamic matrix control with input saturation constrained ](https://doi.org/10.48011/asba.v2i1.1000 )
