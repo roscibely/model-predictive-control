@@ -1,5 +1,6 @@
 # Model Predictive Control (MPC)
 
+## Starting with model predictive control
 
 DMC.m : Technique dynamic matrix control based in the [Wang's book](https://www.edufscar.com.br/introducao-ao-controle-preditivo-com-matlab)
 
@@ -11,4 +12,15 @@ GPC-FUZZY.m: Generalized Predictive Controller with fuzzy logic applied to boost
 
 Offline_MPC_based_LMIs.m and wan2002.m based in  [Robust constrained model predictive control using linear matrix inequalities Kothare and Wan. (2002)](https://www.sciencedirect.com/science/article/abs/pii/0005109896000635)
 
-[Dynamic matrix control with input saturation constrained ](https://doi.org/10.48011/asba.v2i1.1000 )
+
+## More repositories
+
+[DMC with input saturation constrained ](https://github.com/roscibely/DMC-with-input-saturation-constrained) [[File]](https://www.sba.org.br/open_journal_systems/index.php/sba/article/view/1000/997 )
+
+[Robust MPC with an anti-windup ](https://github.com/roscibely/robust-predictive-control-with-AW) 
+
+[MPC with linear matrix inequalities](https://github.com/roscibely/MPC-control-with-LMIs)
+
+## Some books 
+
+
